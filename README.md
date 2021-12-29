@@ -1,15 +1,14 @@
-# Todo Personalizado 
+# To-do Personalizado 
 
-#### Novas features para a aplicação de lembrete de tarefas, as funcionalidades do aplicativo agora são:
+## Funcionalidades do App
 
-* Contagem de tarefas;
-* Adicionar uma nova tarefa;
-* Remover uma traefa;
-* Marcar e desmarcar uma tarefa como concluída;
-* Edição de uma tarefa;
-* Exibição de alerta ao tentar adicionar uma tarefa em branco; 
-* Exibição de alerta pedindo confirmação para remover uma tarefa;
-* Exibição de alerta ao tentar adicionar uma tarefa com o mesmo nome;
+1. Contagem de tarefas.
+2. Criar, editar e remover uma tarefa.
+3. Marcar e desmarcar uma tarefa como concluída.
+4. Exibição de alertas para as seguintes situações: 
+* tentar adicionar uma tarefa em branco;
+* tentar adicionar uma tarefa com o mesmo nome;
+* Pedir confirmação para remover uma tarefa;nome;
 
 ## Tecnologias:
 <br>
